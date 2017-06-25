@@ -54,6 +54,7 @@ p{
     display: block;
     margin: auto;
 }
-.text-mutted {
+
+.text-muted {
     text-align: right;
 }
