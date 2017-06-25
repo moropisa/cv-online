@@ -14,17 +14,6 @@
     background-repeat: repeat-x;
     border-bottom: 1px solid #d5d5d5;
 }
-p{
-    text-align: justify;
-}
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    color: #555;
-    background-color: #e7e7e7;
-}
-.jumbotron {
-    background-color: #fff;
-    padding: 30px 0px 0px 0px;
-}
 
 .nav-justified > li:first-child > a {
     border-left: 0;
@@ -35,6 +24,21 @@ p{
     border-right: 0;
     border-radius: 0 5px 5px 0;
 }
+
+.nav-justified > li >.caca > a, .nav-justified > li >.caca  > a:focus, .nav-justified > li >.caca >a:hover {
+    background-color: #ff0000;
+}
+
+p{
+    text-align: justify;
+
+}
+
+.jumbotron {
+    background-color: #fff;
+    padding: 30px 0px 0px 0px;
+}
+
 
 .img-rounded {
     border-radius: 6px;
