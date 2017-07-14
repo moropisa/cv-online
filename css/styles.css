@@ -58,3 +58,8 @@ p{
 .text-muted {
     text-align: right;
 }
+
+.centrado{
+	margin:10px auto;
+	display:block;
+    }
